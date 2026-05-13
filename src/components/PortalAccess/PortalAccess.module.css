@@ -1,0 +1,177 @@
+.root {
+  background: var(--color-bg-dark);
+  padding: var(--space-16) 0;
+}
+
+.container {
+  max-width: var(--container-max);
+  margin: 0 auto;
+  padding: 0 var(--container-pad);
+}
+
+.heading {
+  font-size: var(--font-size-xl);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-text-inverse);
+  margin-bottom: var(--space-8);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--space-6);
+}
+
+.card {
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: var(--radius-lg);
+  padding: var(--space-8);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-6);
+  transition: background var(--transition-base), border-color var(--transition-base);
+}
+
+.card:hover {
+  background: rgba(255, 255, 255, 0.09);
+  border-color: rgba(255, 255, 255, 0.22);
+}
+
+.cardTop {
+  display: flex;
+  gap: var(--space-5);
+  align-items: flex-start;
+}
+
+.iconWrap {
+  width: 52px;
+  height: 52px;
+  border-radius: var(--radius-md);
+  background: var(--color-primary);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.iconWrap svg {
+  width: 28px;
+  height: 28px;
+}
+
+.cardMeta {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+}
+
+.cardHeading {
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-text-inverse);
+}
+
+.cardDescription {
+  font-size: var(--font-size-sm);
+  color: rgba(255, 255, 255, 0.65);
+  line-height: var(--line-height-base);
+}
+
+.authRow {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  flex-wrap: wrap;
+}
+
+.loginBtn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--space-2) var(--space-6);
+  background: var(--color-accent);
+  color: #fff;
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-bold);
+  border-radius: var(--radius-full);
+  transition: background var(--transition-base);
+}
+
+.loginBtn:hover {
+  background: var(--color-accent-dark);
+}
+
+.registerBtn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--space-2) var(--space-6);
+  background: transparent;
+  color: #fff;
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-semibold);
+  border: 1.5px solid rgba(255, 255, 255, 0.45);
+  border-radius: var(--radius-full);
+  transition: background var(--transition-base), border-color var(--transition-base);
+}
+
+.registerBtn:hover {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.8);
+}
+
+.helpLink {
+  font-size: var(--font-size-xs);
+  color: rgba(255, 255, 255, 0.5);
+  text-decoration: underline;
+  transition: color var(--transition-fast);
+  margin-left: var(--space-1);
+}
+
+.helpLink:hover {
+  color: rgba(255, 255, 255, 0.85);
+}
+
+.dashboardLinks {
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  padding-top: var(--space-5);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+
+.dashboardLabel {
+  font-size: var(--font-size-xs);
+  font-weight: var(--font-weight-semibold);
+  color: rgba(255, 255, 255, 0.4);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.linkList {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--space-1) var(--space-4);
+}
+
+.dashLink {
+  display: flex;
+  align-items: center;
+  gap: var(--space-1);
+  font-size: var(--font-size-sm);
+  color: rgba(255, 255, 255, 0.65);
+  padding: var(--space-1) 0;
+  transition: color var(--transition-fast);
+}
+
+.dashLink:hover {
+  color: var(--color-accent);
+}
+
+@media (max-width: 900px) {
+  .grid { grid-template-columns: 1fr; }
+  .linkList { grid-template-columns: 1fr; }
+}

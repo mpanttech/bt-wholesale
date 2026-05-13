@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "title": "BT Wholesale | Partner with the UK's Largest Network Provider",
+    "description": "Join forces with BT Wholesale to unlock innovative, secure, and cost-effective technology solutions tailored to your needs."
+  },
+  "header": {
+    "utilityLinks": [
+      { "label": "BT Group", "href": "#" },
+      { "label": "Global & Business", "href": "#" },
+      { "label": "Specialised Services", "href": "#" }
+    ],
+    "navLinks": [
+      { "label": "Products & Services", "href": "#products" },
+      { "label": "News & Resources", "href": "#" },
+      { "label": "Help & Support", "href": "/help-and-support" },
+      { "label": "Become a Customer", "href": "#" },
+      { "label": "Contact Us", "href": "#" }
+    ],
+    "authLinks": [
+      { "label": "My BT Wholesale", "href": "#" },
+      { "label": "The Hub", "href": "#" }
+    ],
+    "logoAlt": "BT Wholesale – Go to home page"
+  },
+  "hero": {
+    "headline": "Unlock growth opportunities",
+    "subheadline": "Join forces with the UK's largest network provider to unlock innovative, secure, and cost-effective technology solutions tailored to your needs.",
+    "body": "Benefit from unparalleled expertise and elevate your business today!",
+    "cta": {
+      "label": "Join BT Wholesale",
+      "href": "#"
+    }
+  },
+  "productCards": {
+    "sectionTitle": "Our Products & Services",
+    "cards": [
+      {
+        "id": "data-connectivity",
+        "heading": "Data Connectivity",
+        "description": "Offer your customers a choice of high quality data connectivity options that enable them to exchange information and data seamlessly.",
+        "links": [
+          { "label": "Broadband", "href": "#" },
+          { "label": "Ethernet", "href": "#" },
+          { "label": "SoGEA", "href": "#" },
+          { "label": "Optical", "href": "#" },
+          { "label": "All data services", "href": "#" }
+        ],
+        "icon": "connectivity"
+      },
+      {
+        "id": "voice-services",
+        "heading": "Voice Services",
+        "description": "Provide your customers with the best voice technology in the industry. Explore the full range of next generation voice services that are truly scalable, easy-to-use and secure.",
+        "links": [
+          { "label": "Pre-digital Phone Line", "href": "#" },
+          { "label": "IP Exchange", "href": "#" },
+          { "label": "Wholesale Calls", "href": "#" }
+        ],
+        "icon": "voice"
+      },
+      {
+        "id": "hosted-communications",
+        "heading": "Hosted Communications",
+        "description": "Discover how you can help your customers migrate to next-generation technology with our range of Hosted Communications services.",
+        "links": [
+          { "label": "Hosted Centrex & SIP Trunking", "href": "#" },
+          { "label": "WHC Express", "href": "#" },
+          { "label": "Cisco Webex", "href": "#" }
+        ],
+        "icon": "cloud"
+      },
+      {
+        "id": "teams-phone-mobile",
+        "heading": "Teams Phone Mobile",
+        "description": "Keep customers connected and protected with Teams Phone Mobile – a first of its kind for the wholesale market.",
+        "links": [
+          { "label": "Learn more", "href": "#" }
+        ],
+        "icon": "mobile",
+        "highlight": true
+      }
+    ]
+  },
+  "support": {
+    "heading": "After something else?",
+    "body": "Get in touch if you can't find what you're looking for.",
+    "actions": [
+      { "label": "Contact", "href": "#", "variant": "primary" },
+      { "label": "Call 0800 671045", "href": "tel:0800671045", "variant": "secondary" },
+      { "label": "Help & Support", "href": "#", "variant": "secondary" }
+    ]
+  },
+  "testimonial": {
+    "quote": "Working with BT Wholesale gave us the confidence to invest in our technology platform and make it state of the art. We've taken the functionality far beyond that of our old platforms and avoided an expensive upgrade.",
+    "author": "Damon Russell",
+    "role": "CEO",
+    "company": "Spoke Interactive"
+  },
+  "whySection": {
+    "heading": "Why BT Wholesale?",
+    "cards": [
+      {
+        "id": "expertise",
+        "heading": "Breadth of expertise",
+        "description": "Decades of experience helping businesses of all sizes grow. Our experts work alongside you to deliver solutions that meet your needs today and scale with you tomorrow.",
+        "icon": "lightbulb"
+      },
+      {
+        "id": "reach",
+        "heading": "The ultimate reach",
+        "description": "As the UK's largest network provider, we deliver unmatched geographic coverage, reliability, and resilience across every corner of the country.",
+        "icon": "globe"
+      },
+      {
+        "id": "innovation",
+        "heading": "Innovative technology solutions",
+        "description": "Access a constantly evolving portfolio of customisable, future-proof technology solutions designed to deliver real value for you and your customers.",
+        "icon": "innovation"
+      }
+    ]
+  },
+  "footer": {
+    "partnerBlurb": "We've built strong, strategic partnerships with technology solution providers across the UK. Looking for a communications / technology provider for your business?",
+    "partnerCta": { "label": "Find a BT Wholesale partner", "href": "#" },
+    "legalLinks": [
+      { "label": "Privacy Policy", "href": "#" },
+      { "label": "Terms & Conditions", "href": "#" },
+      { "label": "Accessibility", "href": "#" },
+      { "label": "Cookie Settings", "href": "#" }
+    ],
+    "socialLinks": [
+      { "platform": "LinkedIn", "href": "#" },
+      { "platform": "YouTube", "href": "#" }
+    ],
+    "copyright": "© BT 2026"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "title": "Help & Support | BT Wholesale",
+    "description": "Explore our wide range of resources, including billing help, pricing updates, orders and faults help, technical handbooks, customer service plans and best practice guides."
+  },
+  "pageHero": {
+    "breadcrumb": "Home",
+    "breadcrumbHref": "/",
+    "heading": "Help & support",
+    "description": "Explore our wide range of resources, including billing help, pricing updates, orders and faults help, technical handbooks, customer service plans and best practice guides."
+  },
+  "categories": {
+    "heading": "Support resources",
+    "items": [
+      {
+        "id": "broadband",
+        "label": "Broadband",
+        "href": "/help-and-support/broadband.html",
+        "icon": "wifi"
+      },
+      {
+        "id": "ethernet",
+        "label": "Ethernet",
+        "href": "/help-and-support/ethernet.html",
+        "icon": "ethernet"
+      },
+      {
+        "id": "hosted-communications",
+        "label": "Hosted Communications",
+        "href": "/help-and-support/hosted-communications.html",
+        "icon": "cloud"
+      },
+      {
+        "id": "product-documentation",
+        "label": "All Product Documentation",
+        "href": "/help-and-support/product-documentation.html",
+        "icon": "document"
+      },
+      {
+        "id": "customer-service-plans",
+        "label": "Customer Service Plans",
+        "href": "/help-and-support/customer-service-plans.html",
+        "icon": "headset"
+      },
+      {
+        "id": "pricing",
+        "label": "Pricing",
+        "href": "/help-and-support/pricing.html",
+        "icon": "pricing"
+      },
+      {
+        "id": "billing",
+        "label": "Billing",
+        "href": "/help-and-support/billing.html",
+        "icon": "billing"
+      },
+      {
+        "id": "apps",
+        "label": "Apps",
+        "href": "/help-and-support/apps.html",
+        "icon": "apps"
+      },
+      {
+        "id": "network-information",
+        "label": "Network Information",
+        "href": "/help-and-support/network-information.html",
+        "icon": "network"
+      },
+      {
+        "id": "regulatory",
+        "label": "Regulatory",
+        "href": "/help-and-support/regulatory.html",
+        "icon": "regulatory"
+      },
+      {
+        "id": "contracts",
+        "label": "Contracts",
+        "href": "/help-and-support/contracts.html",
+        "icon": "contracts"
+      },
+      {
+        "id": "faqs",
+        "label": "FAQs",
+        "href": "/help-and-support/faqs.html",
+        "icon": "faq"
+      },
+      {
+        "id": "mobile",
+        "label": "Mobile",
+        "href": "/help-and-support/mobile.html",
+        "icon": "mobile"
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Contact us",
+    "cards": [
+      {
+        "id": "enquiry",
+        "heading": "Make an enquiry",
+        "description": "Contact our Sales team online about your enquiry.",
+        "cta": { "label": "Make an enquiry", "href": "/contact-us/sales-enquiries.html" },
+        "icon": "email"
+      },
+      {
+        "id": "callback",
+        "heading": "Request a call back",
+        "description": "Get in touch if you'd like us to call you back about a sales enquiry.",
+        "cta": { "label": "Request a call back", "href": "/contact-us/request-a-call-back.html" },
+        "icon": "callback"
+      },
+      {
+        "id": "phone",
+        "heading": "Call us",
+        "description": "Call us for sales enquiries about our products and services.",
+        "cta": { "label": "0800 671 045", "href": "tel:08006710454" },
+        "icon": "phone"
+      }
+    ],
+    "viewAllCta": { "label": "View all contacts", "href": "/contact-us.html" }
+  },
+  "portals": {
+    "heading": "Access your account",
+    "items": [
+      {
+        "id": "my-bt-wholesale",
+        "heading": "My BT Wholesale",
+        "description": "Our long-established platform for our full product range. Log in to access Business Zone, briefings, and much more.",
+        "icon": "portal",
+        "loginLink": { "label": "Log in", "href": "https://my.btwholesale.com/portalzone/login/auth.rest" },
+        "registerLink": { "label": "Register", "href": "https://my.btwholesale.com/onboard/user/#/user/welcome" },
+        "helpLink": { "label": "Log in help", "href": "/log-in/log-in-help.html" },
+        "dashboardLinks": [
+          { "label": "Overview", "href": "https://my.btwholesale.com/businesszone/hs/overview" },
+          { "label": "My orders", "href": "https://my.btwholesale.com/businesszone/hs/order/" },
+          { "label": "Repairs and faults", "href": "https://my.btwholesale.com/businesszone/hs/fault/" },
+          { "label": "Inventory & Reports", "href": "https://my.btwholesale.com/businesszone/hs/inventory/" },
+          { "label": "Billing", "href": "https://my.btwholesale.com/businesszone/billing/launchBilling.do" },
+          { "label": "My apps", "href": "https://my.btwholesale.com/portalzone/portalzone/loadMyAppsPage.do" },
+          { "label": "My briefings", "href": "/sc/briefings.html" },
+          { "label": "Administration", "href": "https://my.btwholesale.com/businesszone/admin/launchAdmin.do" }
+        ]
+      },
+      {
+        "id": "the-hub",
+        "heading": "The Hub",
+        "description": "Seamless ordering and self-serve capability across billing and fault diagnostics across Broadband One, WHC Express and Complete Switch.",
+        "icon": "hub",
+        "loginLink": { "label": "Log in", "href": "https://partners.btwholesale.com/" },
+        "registerLink": { "label": "Register", "href": "https://my.btwholesale.com/onboard/user/#/user/welcome" },
+        "helpLink": { "label": "Trouble signing in?", "href": "https://partners.btwholesale.com/s/trouble-signing-in" },
+        "dashboardLinks": []
+      }
+    ]
+  }
+}

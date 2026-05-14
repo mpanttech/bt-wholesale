@@ -13,7 +13,7 @@
       { "label": "Products & Services", "href": "#products" },
       { "label": "News & Resources", "href": "#" },
       { "label": "Help & Support", "href": "/help-and-support" },
-      { "label": "Become a Customer", "href": "#" },
+      { "label": "Become a Customer", "href": "/become-a-customer" },
       { "label": "Contact Us", "href": "#" }
     ],
     "authLinks": [

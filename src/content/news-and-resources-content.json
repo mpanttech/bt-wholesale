@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "title": "News & Resources | BT Wholesale",
+    "description": "Stay up to date with the latest BT Wholesale news, campaigns, success stories and partner resources."
+  },
+  "pageHero": {
+    "breadcrumb": "Home",
+    "breadcrumbHref": "/",
+    "heading": "News & resources",
+    "description": "Stay up to date with the latest market insights, partner campaigns, success stories and resources to help you grow."
+  },
+  "categories": {
+    "heading": "Explore news & resources",
+    "items": [
+      {
+        "id": "news-insights-events",
+        "label": "News, insights & events",
+        "href": "/news-and-resources/news-insights-events.html",
+        "icon": "document"
+      },
+      {
+        "id": "campaigns",
+        "label": "Campaigns",
+        "href": "/news-and-resources/campaigns.html",
+        "icon": "document"
+      },
+      {
+        "id": "success-stories",
+        "label": "Success stories",
+        "href": "/news-and-resources/success-stories.html",
+        "icon": "document"
+      },
+      {
+        "id": "tech-provider-directory",
+        "label": "Tech provider directory",
+        "href": "/news-and-resources/tech-provider-directory.html",
+        "icon": "document"
+      },
+      {
+        "id": "about-us",
+        "label": "About us",
+        "href": "/news-and-resources/about-us.html",
+        "icon": "document"
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Need support?",
+    "cards": [
+      {
+        "id": "enquiry",
+        "heading": "Make an enquiry",
+        "description": "Contact our Sales team online about your enquiry.",
+        "cta": { "label": "Make an enquiry", "href": "/contact-us/sales-enquiries.html" },
+        "icon": "email"
+      },
+      {
+        "id": "callback",
+        "heading": "Request a call back",
+        "description": "Get in touch if you'd like us to call you back about a sales enquiry.",
+        "cta": { "label": "Request a call back", "href": "/contact-us/request-a-call-back.html" },
+        "icon": "callback"
+      },
+      {
+        "id": "phone",
+        "heading": "Call us",
+        "description": "Call us for sales enquiries about our products and services.",
+        "cta": { "label": "0800 671 045", "href": "tel:08006710454" },
+        "icon": "phone"
+      }
+    ],
+    "viewAllCta": { "label": "View all contacts", "href": "/contact-us.html" }
+  },
+  "portals": {
+    "heading": "Access your account",
+    "items": [
+      {
+        "id": "my-bt-wholesale",
+        "heading": "My BT Wholesale",
+        "description": "Our long-established platform for our full product range. Log in to access Business Zone, briefings, and much more.",
+        "icon": "portal",
+        "loginLink": { "label": "Log in", "href": "https://my.btwholesale.com/portalzone/login/auth.rest" },
+        "registerLink": { "label": "Register", "href": "https://my.btwholesale.com/onboard/user/#/user/welcome" },
+        "helpLink": { "label": "Log in help", "href": "/log-in/log-in-help.html" },
+        "dashboardLinks": [
+          { "label": "Overview", "href": "https://my.btwholesale.com/businesszone/hs/overview" },
+          { "label": "My orders", "href": "https://my.btwholesale.com/businesszone/hs/order/" },
+          { "label": "Repairs and faults", "href": "https://my.btwholesale.com/businesszone/hs/fault/" },
+          { "label": "Inventory & Reports", "href": "https://my.btwholesale.com/businesszone/hs/inventory/" },
+          { "label": "Billing", "href": "https://my.btwholesale.com/businesszone/billing/launchBilling.do" },
+          { "label": "My apps", "href": "https://my.btwholesale.com/portalzone/portalzone/loadMyAppsPage.do" },
+          { "label": "My briefings", "href": "/sc/briefings.html" },
+          { "label": "Administration", "href": "https://my.btwholesale.com/businesszone/admin/launchAdmin.do" }
+        ]
+      },
+      {
+        "id": "the-hub",
+        "heading": "The Hub",
+        "description": "Seamless ordering and self-serve capability across billing and fault diagnostics across Broadband One, WHC Express and Complete Switch.",
+        "icon": "hub",
+        "loginLink": { "label": "Log in", "href": "https://partners.btwholesale.com/" },
+        "registerLink": { "label": "Register", "href": "https://my.btwholesale.com/onboard/user/#/user/welcome" },
+        "helpLink": { "label": "Trouble signing in?", "href": "https://partners.btwholesale.com/s/trouble-signing-in" },
+        "dashboardLinks": []
+      }
+    ]
+  }
+}

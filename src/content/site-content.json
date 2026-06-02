@@ -11,9 +11,9 @@
     ],
     "navLinks": [
       { "label": "Products & Services", "href": "#products" },
-      { "label": "News & Resources", "href": "#" },
+      { "label": "News & Resources", "href": "/news-and-resources" },
       { "label": "Help & Support", "href": "/help-and-support" },
-      { "label": "Become a Customer", "href": "#" },
+      { "label": "Become a Customer", "href": "/become-a-customer" },
       { "label": "Contact Us", "href": "#" }
     ],
     "authLinks": [

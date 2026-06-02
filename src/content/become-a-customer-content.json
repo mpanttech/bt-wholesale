@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "title": "Become a BT Wholesale Customer | BT Wholesale",
+    "description": "Join BT Wholesale and unlock access to the UK's largest network. Get high-quality services, unrivalled network reach, and dedicated support to grow your business."
+  },
+  "pageHero": {
+    "breadcrumb": "Home",
+    "breadcrumbHref": "/",
+    "heading": "Become a BT Wholesale customer",
+    "description": "We've got the support, innovation and resources to help you sell more."
+  },
+  "benefits": {
+    "heading": "Why partner with us",
+    "items": [
+      {
+        "id": "quality",
+        "icon": "quality",
+        "heading": "High-quality and reliable services",
+        "description": "Access a portfolio of products and services designed to meet the needs of your customers, backed by industry-leading SLAs and the UK's most trusted network."
+      },
+      {
+        "id": "network",
+        "icon": "network",
+        "heading": "An unrivalled network",
+        "description": "We invest £2bn in our network each year, bringing connectivity to places other providers can't reach — giving your customers the coverage they need."
+      },
+      {
+        "id": "revenue",
+        "icon": "revenue",
+        "heading": "Faster revenue generation",
+        "description": "We've simplified access to our network and improved installation and lead times, so you can start generating revenue from day one."
+      },
+      {
+        "id": "support",
+        "icon": "support",
+        "heading": "Unbeatable support",
+        "description": "We've got over 1,700 specialists dedicated to delivering the best solutions and support for your business, whenever you need us."
+      }
+    ]
+  },
+  "products": {
+    "heading": "Our products",
+    "description": "Unlock a comprehensive portfolio of wholesale products and services to grow your business and meet your customers' needs.",
+    "items": [
+      {
+        "id": "data",
+        "icon": "data",
+        "label": "Data",
+        "description": "High-speed data connectivity solutions including Broadband, Ethernet, SoGEA, and Optical."
+      },
+      {
+        "id": "voice",
+        "icon": "voice",
+        "label": "Voice",
+        "description": "Next-generation voice services — scalable, easy-to-use, and secure for all your customers."
+      },
+      {
+        "id": "hosted-comms",
+        "icon": "cloud",
+        "label": "Hosted Communications",
+        "description": "Cloud-based communications platforms that keep your customers connected wherever they are."
+      },
+      {
+        "id": "managed-services",
+        "icon": "managed",
+        "label": "Managed Services",
+        "description": "End-to-end managed solutions that simplify complexity and free your customers to focus on growth."
+      },
+      {
+        "id": "mobile",
+        "icon": "mobile",
+        "label": "Mobile",
+        "description": "Flexible mobile solutions with nationwide coverage to keep your customers connected on the move."
+      },
+      {
+        "id": "iot",
+        "icon": "iot",
+        "label": "Internet of Things (IoT)",
+        "description": "Connected device solutions that unlock new business opportunities for you and your customers."
+      }
+    ]
+  },
+  "whyBT": {
+    "heading": "Why BT Wholesale",
+    "items": [
+      {
+        "id": "innovation",
+        "icon": "innovation",
+        "heading": "Track record of innovation",
+        "description": "We've been providing high-quality telecoms services since 1846, continuously innovating to stay ahead of the market and deliver what your customers need."
+      },
+      {
+        "id": "reach",
+        "icon": "reach",
+        "heading": "The ultimate reach",
+        "description": "We're the only UK network to offer 99.999% availability, with coverage that reaches places other providers simply can't match."
+      },
+      {
+        "id": "bespoke",
+        "icon": "bespoke",
+        "heading": "Bespoke solutions",
+        "description": "We work with you to create tailored solutions that meet your specific business needs and the unique requirements of your customers."
+      }
+    ]
+  },
+  "apply": {
+    "heading": "What we'll need from you",
+    "description": "Getting started is straightforward. To set up your account we'll need the following information from you.",
+    "requirements": [
+      "Your contact details — name, email address and phone number",
+      "Your business information — company registration number, VAT number and reseller code",
+      "Your business needs — the products and services you're interested in",
+      "Agreement to move your BT account to BT Wholesale",
+      "Acceptance of our non-disclosure agreement"
+    ],
+    "cta": {
+      "label": "Become a BT Wholesale customer",
+      "href": "https://my.btwholesale.com/onboard/user/#/user/welcome"
+    }
+  }
+}
